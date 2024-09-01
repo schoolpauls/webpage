@@ -37,3 +37,7 @@ function navigateToPage9() {
 function navigateToPage10() {
     window.location.href = 'https://schoolpauls.github.io/main/10.html'; // Link to the desired page
 }
+
+if (window.innerWidth <= 1024) {
+  window.location.href = 'http://yourwebsite.com/desktop-view';
+}
