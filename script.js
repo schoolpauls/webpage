@@ -19,7 +19,7 @@ function navigateToPage5() {
 }
 
 function navigateToPage6() {
-    window.location.href = 'https://schoolpauls.github.io/section/6section.html'; // Link to the desired page
+    window.location.href = 'https://schoolpauls.github.io/section/6section.html'; // Link to the desired
 }
 
 function navigateToPage7() {
