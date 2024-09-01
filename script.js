@@ -39,5 +39,5 @@ function navigateToPage10() {
 }
 
 if (window.innerWidth <= 1024) {
-  window.location.href = 'http://yourwebsite.com/desktop-view';
+  window.location.href = 'https://schoolpauls.github.io/webpage/desktop-view';
 }
